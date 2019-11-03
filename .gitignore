@@ -39,3 +39,7 @@ dist/**/*
 
 # ignore yarn.lock
 yarn.lock
+
+#Ignore other folders in directory
+react-heroes
+update-heroes
