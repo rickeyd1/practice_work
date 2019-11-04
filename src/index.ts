@@ -20,5 +20,5 @@ app.use((req, resp, next) => {
 app.use('/heroes', heroRouter);
 
 app.listen(port, () => {
-    console.log('application started');
+    console.log('application started'); 
 })
